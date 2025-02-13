@@ -29,8 +29,11 @@ export function createMainWindow() {
   mainWindow = createWindow({
     routerPath: '/',
     width: 430,
-    height: 580,
+    height: 700,
     alwaysOnTop: false,
+    resizable: true,
+    minHeight: 580,
+    maxHeight: 900,
   });
 
   mainWindow.on('close', (event) => {
