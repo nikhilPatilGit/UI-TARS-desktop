@@ -20,7 +20,8 @@ export default function Header({ className }: { className?: string }) {
             userSelect="none"
             alt="UI-TARS Logo"
             src={logoVector}
-            h="40px"
+            h="200px"
+            w="200px"
             draggable={false}
           />
         </HStack>

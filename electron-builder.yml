@@ -1,5 +1,5 @@
 appId: com.electron.app
-productName: UI-TARS
+productName: ReflecAI
 directories:
   buildResources: build
 files:

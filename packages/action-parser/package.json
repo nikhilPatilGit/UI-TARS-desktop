@@ -1,5 +1,5 @@
 {
-  "name": "@ui-tars/action-parser",
+  "name": "@reflecai/action-parser",
   "version": "1.1.0",
   "description": "Action parser SDK for UI-TARS",
   "repository": {

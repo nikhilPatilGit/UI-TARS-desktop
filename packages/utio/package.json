@@ -12,7 +12,7 @@
     "prepack": "npm run build"
   },
   "keywords": [
-    "UI-TARS"
+    "ReflecAI"
   ],
   "license": "Apache-2.0",
   "publishConfig": {
